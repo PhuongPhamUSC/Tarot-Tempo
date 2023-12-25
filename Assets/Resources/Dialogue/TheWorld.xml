@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DialogueScript xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dialogue>
+        <ArrayOfString>
+            <string>Locked...</string>
+        </ArrayOfString>
+
+		<ArrayOfString>
+			<string>*The wind whispers* : You've reached the peak of the world and unlocked the door to the numerous realms of it.</string>
+			<string>Congratulation child. Write your own story from this point forward...</string>
+            <string>...and remember, the world is yours to explore.</string>
+            <string>*Thank you for playing Tarot Tempo!*</string>
+		</ArrayOfString>
+    </dialogue>
+</DialogueScript>

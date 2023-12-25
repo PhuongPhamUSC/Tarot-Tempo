@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DialogueScript xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<dialogue>
+		<ArrayOfString>
+			<string>The fountain: I'm sensing a witch's presence. The first in this astral plane. </string>
+			<string>You: You're the first talking fountain I've seen too! </string>
+		</ArrayOfString>
+		
+		<ArrayOfString>
+			<string>You: A fountain, should I make a wish?</string>
+			<string>The fountain: Be careful, little one. A wish comes only for those worthy. </string>
+		</ArrayOfString>
+
+		<ArrayOfString>
+			<string>You: Such clear water...</string>
+			<string>The fountain: Cause no one throws a dime in me here, thank heaven! </string>
+		</ArrayOfString>
+
+		<ArrayOfString>
+			<string>You: How do I get out of here?</string>
+			<string>The fountain: Easy, child. Just go through the door over there. </string>
+		</ArrayOfString>
+
+		<ArrayOfString>
+			<string>You: Why is the floor undulating like your water?</string>
+			<string>The fountain: The fabric of space and time never rests, my dear. </string>
+		</ArrayOfString>
+
+		<ArrayOfString>
+			<string>You: Who are the people chilling here...</string>
+			<string>The fountain: They're celestial beings born after the light. </string>
+		</ArrayOfString>
+
+		<ArrayOfString>
+			<string>You: Twinkle twinkle little star...</string>
+			<string>The fountain: How I wonder where you are! </string>
+		</ArrayOfString>
+	</dialogue>
+</DialogueScript>

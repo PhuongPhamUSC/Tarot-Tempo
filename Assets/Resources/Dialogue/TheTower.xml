@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DialogueScript xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dialogue>
+        <ArrayOfString>
+            <string>You: What's in your mind?</string>
+            <string>???: Strength, determination, and a vision for the future. Nothing stands in my way.</string>
+        </ArrayOfString>
+		
+		<ArrayOfString>
+            <string>???: In your hand lies the card that reveals the inevitable fall of empires. How did you obtain it?</string>
+            <string>Victor: Nonetheless, you've proven the strength of your will enough to invoke my presence. I'm Victor - the spirit dwelling inside The Tower.</string>
+			<string>You: What lessons await me then, spirit of The Tower?</string>        
+			<string>Victor: The inevitability of change, the significance of humility, and the strength to rebuild from the ruins.</string>        
+			<string>Victor: The Tower's energy is one of transformative destruction leading to rebirth.</string>        
+			<string>You: How can I harness this energy?</string>        
+			<string>Victor: Observe moments of upheaval in the world. </string>
+			<string>Victor: Witness how individuals navigate through challenging times.</string>
+			<string>Victor: And you shall grasp the true power of resilience and rebuilding.</string>
+			<string>You: Thank you, Victor.</string>
+		</ArrayOfString>
+
+		<ArrayOfString>
+			<string>You: What if failure happens, Victor?</string>
+			<string>Victor: You can stand right back up, unwavered.</string>
+		</ArrayOfString>
+    </dialogue>
+</DialogueScript>

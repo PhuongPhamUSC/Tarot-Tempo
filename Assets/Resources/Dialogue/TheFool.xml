@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DialogueScript xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dialogue>
+        <ArrayOfString>
+            <string>???: Hey, you're the new wanderer here, right?</string>
+            <string>You: I've unfortunately got lost. Where's this place?</string>
+            <string>???: Oh, you're in the resting place of the Celestials, not a lot of people can get in or out.</string>
+            <string>You: Is there a way out then?</string>            
+            <string>???: Not for a witch, no... But life's a journey. Embrace the unknown adventure is your first step.</string>
+        </ArrayOfString>
+
+        <ArrayOfString>
+            <string>???: So, you've overcome The Fool? Seems like it's not hopeless for you after all!</string>
+            <string>Alex: I'm the spirit of The Fool, but you can call me by my human disguise name: Alex.</string>
+            <string>You: So, you're the one who's been guiding me all this time?</string>
+            <string>Alex: Yes, I'm glad that my effort has pushed you forward, but your next challenge will be much harder.</string>
+            <string>You: What's ahead of me then?</string>
+            <string>Alex: Look into your intuition, knowledge, and subconsciousness. Good luck, wanderer.</string>
+        </ArrayOfString>
+
+        <ArrayOfString>
+            <string>Alex: Stays curious, stays hungry. Don't lose your inner child, wild one!</string>
+        </ArrayOfString>
+    </dialogue>
+</DialogueScript>

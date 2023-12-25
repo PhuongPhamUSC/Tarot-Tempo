@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DialogueScript xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dialogue>
+        <ArrayOfString>
+            <string>???: Ah, my little witch, the secrets of the universe are all around us. You just need to listen.</string>
+            <string>You: What do you mean? </string>
+            <string>???: The universe is a song, and we are all notes. Listen to the unseen.</string>
+        </ArrayOfString>
+
+        <ArrayOfString>
+            <string>???: You've listened to your inner self.</string>
+            <string>Evelyn: Thus, you've called upon me: Evelyn - the spirit of The Priestess.</string>
+            <string>You: What does your essence represent? </string>
+            <string>Evelyn: I honor and symbolize intuition and hidden knowledge. Allow me to share the secrets that bind us to the mystical.</string>
+            <string>You: I'm ready to learn.</string>
+            <string>Evelyn: My wisdom will hopefully guide you, for your future still holds many obstacles, my dear.</string>
+            <string>Evelyn: Find the Empress ruling within you.</string>
+        </ArrayOfString>
+
+        <ArrayOfString>
+			<string>You: Where do you draw strength within youself, Priestess?</string>
+			<string>Evelyn: Everywhere, everything can be your inspiration and strength. </string>
+		</ArrayOfString>
+
+    </dialogue>
+</DialogueScript>

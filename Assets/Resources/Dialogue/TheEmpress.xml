@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DialogueScript xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dialogue>
+        <ArrayOfString>
+            <string>You: Your garden is amazing! How do you make it thrive so beautifully?</string>
+            <string>???: Darling, it's all about understanding the balance of nature. Each plant has its own story to tell.</string>
+        </ArrayOfString>
+
+		<ArrayOfString>
+			<string>Charlotte: Ah, dear one, you hold The Empress card.</string>
+			<string>Charlotte: A symbol of fertility, creation, and abundance. You've gained insight into the nurturing power of life.</string>
+			<string>You: What does it mean to have the privilege of acquaintance with you?</string>
+			<string>Charlotte: I am the spirit that dwells within The Empress card. </string>
+			<string>Charlotte: By unlocking this chapter, you've invoked my presence. I am here to guide and share the secrets of creation. </string>
+			<string>You: Secrets of creation?</string>
+			<string>Charlotte: Indeed. The harmony of life, the dance of flora and fauna, and the essence of abundance. </string>
+			<string>Charlotte: My connection to nature is a reflection of The Empress's energy. </string>
+			<string>You: How can I learn from this energy?</string>
+			<string>Charlotte: Observe the delicate balance she maintains. Embrace the cycles of life, and you shall understand the true power of creation.</string>
+			<string>You: Thank you, Charlotte. I'll keep that in mind.</string>
+		</ArrayOfString>
+
+		<ArrayOfString>
+            <string>You: Your lessons have served me so well. I owe you my gratitude, Charlotte.</string>
+            <string>Charlotte: It's my honor to bestow power to young souls like you, my dear.</string>
+        </ArrayOfString>
+	</dialogue>
+</DialogueScript>
